@@ -1,0 +1,3 @@
+# EDABK-Task8
+Run google colab version first to get the saved data files, saved model file,...
+Because google colab do not support cv.imshow, so that i must create a local version to test my model on local computer
